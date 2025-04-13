@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://namedrop.io/asimgazi'>Hear my name pronounced.</a>
+subtitle: <a href='https://namedrop.io/asimgazi'>"AH-sim GAH-zee"</a>
 
 profile:
   align: right
