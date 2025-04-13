@@ -2,9 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: |
- * School of Engineering and Applied Sciences
- * Harvard University
+subtitle: "School of Engineering and Applied Sciences \n Harvard University"
 
 profile:
   align: right
