@@ -11,7 +11,7 @@ I envision a future where mobile health (mHealth) systems provide us with person
 **My research addresses this gap in personalized, everyday support by developing data insights, models, and algorithms for intelligent mHealth interventions.** A challenging yet remarkable aspect of health care delivery is that the same intervention can produce vastly different outcomes when delivered in different contexts or to different people. While mHealth sensors (e.g., wearable devices) and advances in digital phenotyping provide unprecedented data on a person's biobehavioral context, traditional clinician-driven support cannot scale to the dynamic nature of a person's daily life. MHealth interventions can address this gap. Nascent technologies like earbud-based vagus nerve stimulators (VNS) enable non-invasive biological intervention, complementing behavioral interventions via apps.  
 *The technical challenge now is to develop computational intelligence to precisely deliver these mHealth interventions based on a person's biobehavioral context.*
 
-### Research Question
+#### Research Question
 **How do we design closed-loop control systems for mHealth that leverage biobehavioral interventions to provide support tailored to a person's biobehavioral context?** Recent work on just-in-time adaptive interventions (JITAIs), nascent closed-loop systems in mHealth that employ behavioral interventions, demonstrates this problem's difficulty.[^2] Challenges include:
 
 - **C1) Personalization can backfire if done incorrectly.**  
