@@ -10,7 +10,5 @@ nav_order: 5
 # toc:
   # sidebar: left
 ---
-<a href="/assets/pdf/CV_Gazi_2025-04-01.pdf" target="_blank">Download CV</a>
-<script>
-  window.location.href = "/assets/pdf/CV_Gazi_2025-04-01.pdf";
-</script>
+
+<a href="/assets/pdf/CV_Gazi_2025-04-01.pdf" target="_blank" rel="noopener noreferrer">Open CV in New Tab</a>
