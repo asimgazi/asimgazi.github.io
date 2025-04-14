@@ -16,13 +16,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-internet-of-tutors",
-          title: "Internet of Tutors",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/tutors/";
-          },
         },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
@@ -474,6 +467,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://twitter.com/asimhgazi", "_blank");
+        },
+      },{
+        id: 'social-internet_of_tutors',
+        title: 'Internet_of_tutors',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.internet-of-tutors.com/", "_blank");
         },
       },{
       id: 'light-theme',
