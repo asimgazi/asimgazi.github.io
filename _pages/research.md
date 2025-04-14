@@ -23,7 +23,7 @@ I envision a future where mobile health (mHealth) systems provide us with person
 - **C3) Every single intervention has limitations.**  
   Behavioral interventions often require conscious regulation, but conscious regulation is not always practical (e.g., during panic). Biological interventions can bypass consciousness, but do not promote self-efficacy in the long term. Closed-loop systems for mHealth should be biobehavioral, optimally intervening in the right way at the right time.
 
-### Research Focus
+#### Research Focus
 To address these challenges, my research focuses on:
 
 1. **Uncertainty-informed, closed-loop systems** for personalized mHealth.  
@@ -32,6 +32,6 @@ To address these challenges, my research focuses on:
 
 ---
 
-### References
+#### References
 [^1]: M G-Holloway, *Psychiatry*, 2022.  
 [^2]: S Battalio et al., *Contemp Clin Trials*, 2021.
