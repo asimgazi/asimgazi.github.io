@@ -1,5 +1,5 @@
 ---
-layout: none
+layout: default
 permalink: /research/
 title: Research
 nav: true
