@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='https://namedrop.io/asimgazi'>"AH-sim GAH-zee"</a>
 
