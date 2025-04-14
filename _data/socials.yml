@@ -45,6 +45,10 @@ scholar_userid: rPxdrHkAAAAJ # your Google Scholar ID
 x_username: asimhgazi # your X handle
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
+internet_of_tutors: 
+  logo: /assets/img/IOT_logo.png
+  title: Internet of Tutors
+  url: https://www.internet-of-tutors.com/
 # custom_social: # can be any name here other than the ones already defined above
 #   logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
 #   title: Custom Social
