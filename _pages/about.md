@@ -41,7 +41,3 @@ My vision is for the models, data analytics, and algorithms I work on to enable 
 I completed my B.S. in electrical engineering with a minor in mathematics in 2018 there at the University of Texas at Dallas, funded by the Academic Excellence Scholarship. I then completed my Ph.D. in electrical engineering with a minor in biomedical engineering in 2023 from the Georgia Institute of Technology, advised by Omer T. Inan and Christopher J. Rozell and funded by a National Science Foundation (NSF) Graduate Research Fellowship.
 
 I am currently a Pathfinder with the Boston Partners in Education. If you are interested in having me visit your middle or high school class, please feel free to reach out! You can read about one of my past visits [here](https://bostonpartners.org/asim-gazi-gardner-pilot-academy/). I am also the owner of [Internet of Tutors LLC](https://www.internetoftutors.com/), which I founded in 2017 during my undergraduate years in Dallas, TX. 
-
-You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
