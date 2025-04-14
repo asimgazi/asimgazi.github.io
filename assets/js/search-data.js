@@ -473,7 +473,7 @@ ninja.data = [{
         title: 'Internet_of_tutors',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.internet-of-tutors.com/", "_blank");
+          window.open("https://www.internetoftutors.com/", "_blank");
         },
       },{
       id: 'light-theme',
