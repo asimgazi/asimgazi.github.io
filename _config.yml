@@ -3,7 +3,7 @@
 # -----------------------------------------------------------------------------
 
 title: Asim H. Gazi # the website title (if blank, full name will be used instead)
-first_name: Asim
+first_name: "**Asim**"
 middle_name: H.
 last_name: Gazi
 contact_note: 
@@ -141,13 +141,13 @@ newsletter:
 
 collections:
   books:
-    output: true
+    output: false
   news:
     defaults:
       layout: post
-    output: true
+    output: false
   projects:
-    output: true
+    output: false
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -266,8 +266,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Gazi]
+  first_name: [Asim, H.]
 
   style: apa
   locale: en
