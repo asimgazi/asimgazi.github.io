@@ -26,18 +26,20 @@ latest_posts:
 
 **I am a postdoctoral fellow in computer science and statistics at Harvard University**, advised by [Susan A. Murphy](https://people.seas.harvard.edu/~samurphy/). I completed my Ph.D. in electrical engineering in 2023 from the Georgia Institute of Technology, advised by [Omer T. Inan](https://irl.gatech.edu/people/) and [Christopher J. Rozell](https://siplab.gatech.edu/people.html/).
 
-My interdisciplinary research is on closed-loop control systems for intelligent mobile health (mHealth) interventions. I conduct use-inspired research to enable sensor-informed mHealth interventions, digital health interventions that can be delivered during everyday life that are personalized to an individual's biobehavioral state. I work on (1) the data analytics, signal processing, and machine learning algorithms to infer biobehavioral state dynamics from the raw signals obtained using mobile, wearable, and ubiquitous, sensors, the (2) dynamic models and digital twins to characterize and predict the effects of potential interventions on changes in biobehavioral state, and (3) the decision-making and data-driven control algorithms (e.g., reinforcement learning) to make intelligent intervention decisions based on inferred changes in an individual's biobehavioral state.
+My research is on closed-loop control systems for intelligent mobile health (mHealth) interventions. I conduct use-inspired research to enable sensor-informed mHealth interventions, digital health interventions that can be delivered during everyday life that are personalized to an individual's biobehavioral state. I work on (1) the data analytics, signal processing, and machine learning algorithms to infer biobehavioral state dynamics from the raw signals obtained using mobile, wearable, and ubiquitous, sensors, the (2) dynamic models and digital twins to characterize and predict the effects of potential interventions on changes in biobehavioral state, and (3) the decision-making and data-driven control algorithms (e.g., reinforcement learning) to make intelligent intervention decisions based on inferred changes in an individual's biobehavioral state.
 
 My work specifically addresses three key technical challenges:
 
-I. Significant uncertainty in sensor-informed decision making
+I. Significant uncertainty when personalizing decisions to sensor feedback
 
-II. The need for personalized modeling and decision-making
+II. Lack of quantitative, mechanistic models in psychophysiology
 
-III. Lack of quantitative, mechanistic models in psychophysiology
+III. The need to further personalize modeling and decision-making
+
+
 
 My vision is for the models, data analytics, and algorithms I work on to enable these intelligent mHealth interventions to complement the personalized support we obtain from clinicians, synchronous support we can only avail for less than 1% of our lives (e.g., one hour per week via psychotherapy). Along these lines, I am very fortunate to work with amazing collaborators on translational research and real-world deployments and clinical trials, which has led to impact such as FDA Breakthrough Designation for a nascent non-invasive neuromodulation intervention that my PhD focused on dynamically modeling the effects of. 
 
-I am currently funded by a ~\\$1M NIH K99/R00 Pathway to Independence Award from the National Institute of Biomedical Imaging and Bioengineering (NIBIB), which will fund the remainder of my postdoc and up to [\\$747k over my first three years as an assistant professor](http://bit.ly/43uk7xN) at whichever institution I join. Previously, I was supported by Schmidt Sciences, in partnership with the Rhodes Trust, as one of 32 [Schmidt Science Fellows](https://schmidtsciencefellows.org/fellow/asim-gazi/) selected from around the world in 2023. My PhD was funded primarily by the National Science Foundation (NSF) Graduate Research Fellowship. 
+I am currently funded by a ~\\$1M NIH K99/R00 Pathway to Independence Award from the National Institute of Biomedical Imaging and Bioengineering (NIBIB), which will fund the remainder of my postdoc and up to [\\$747k over my first three years as an assistant professor](http://bit.ly/43uk7xN) at whichever institution I join. Previously, I was supported by Schmidt Sciences, in partnership with the Rhodes Trust, as [one of 32 Schmidt Science Fellows selected from around the world](https://schmidtsciencefellows.org/fellow/asim-gazi/) in 2023. My PhD was funded primarily by the [National Science Foundation (NSF) Graduate Research Fellowship](https://www.nsfgrfp.org/). 
 
 I am currently a [Pathfinder with the Boston Partners in Education](https://bostonpartners.org/educators/pathfinders/). If you are interested in having me visit your middle or high school class, please feel free to reach out! You can read about one of my past visits [here](https://bostonpartners.org/asim-gazi-gardner-pilot-academy/).
