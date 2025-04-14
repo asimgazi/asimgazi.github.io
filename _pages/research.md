@@ -8,7 +8,8 @@ nav_order: 7
 
 I envision a future where mobile health (mHealth) systems provide us with personalized support during daily life to prevent and treat chronic diseases. MHealth systems use wireless technologies to enable health care during everyday life, which is especially critical for chronic disease care. Chronic diseases often entail sudden bouts of acute symptoms (stress, hypertension, etc.) that require timelier support than can be provided by a clinician. In a therapist's words, "I only get to spend 45-60 minutes with [patients weekly]…The remainder of the time (i.e., 99%) is spent on their own."[^1]
 
-**My research addresses this gap in personalized, everyday support by developing data insights, models, and algorithms for intelligent mHealth interventions.** A challenging yet remarkable aspect of health care delivery is that the same intervention can produce vastly different outcomes when delivered in different contexts or to different people. While mHealth sensors (e.g., wearable devices) and advances in digital phenotyping provide unprecedented data on a person's biobehavioral context, traditional clinician-driven support cannot scale to the dynamic nature of a person's daily life. MHealth interventions can address this gap. Nascent technologies like earbud-based vagus nerve stimulators (VNS) enable non-invasive biological intervention, complementing behavioral interventions via apps.  
+**My research addresses this gap in personalized, everyday support by developing data insights, models, and algorithms for intelligent mHealth interventions.** A challenging yet remarkable aspect of health care delivery is that the same intervention can produce vastly different outcomes when delivered in different contexts or to different people. While mHealth sensors (e.g., wearable devices) and advances in digital phenotyping provide unprecedented data on a person's biobehavioral context, traditional clinician-driven support cannot scale to the dynamic nature of a person's daily life. MHealth interventions can address this gap. Nascent technologies like earbud-based vagus nerve stimulators (VNS) enable non-invasive biological intervention, complementing behavioral interventions via apps. 
+ 
 *The technical challenge now is to develop computational intelligence to precisely deliver these mHealth interventions based on a person's biobehavioral context.*
 
 #### Research Question
@@ -28,7 +29,7 @@ To address these challenges, my research focuses on:
 
 1. **Uncertainty-informed, closed-loop systems** for personalized mHealth.  
 2. **Psychophysiology-informed models** for state estimation and control.  
-3. **Optimal control of behavioral *and* biological interventions** to enable the next generation of biobehavioral mHealth systems.
+3. **Optimal control of behavioral *and* biological interventions** to enable the next-gen biobehavioral mHealth systems.
 
 ---
 
