@@ -28,7 +28,7 @@ latest_posts:
 
 I am currently funded by a ~\\$1M NIH K99/R00 Pathway to Independence Award from the National Institute of Biomedical Imaging and Bioengineering (NIBIB), which will fund the remainder of my postdoc and up to [&#36;747k over my first three years as an assistant professor](http://bit.ly/43uk7xN) at whichever institution I join. Previously, I was supported by Schmidt Sciences, in partnership with the Rhodes Trust, as [one of 32 Schmidt Science Fellows selected from around the world](https://schmidtsciencefellows.org/fellow/asim-gazi/) in 2023. My PhD was funded by a National Science Foundation (NSF) Graduate Research Fellowship.
 
-Outside of research, I am a [Pathfinder for Boston Partners in Education] (https://bostonpartners.org/educators/pathfinders/). If you are interested in having me visit your middle or high school class, please feel free to reach out or visit their website! You can read about one of my past visits [here](https://bostonpartners.org/asim-gazi-gardner-pilot-academy/). I am also the founder and owner of [Internet of Tutors LLC](https://www.internetoftutors.com/).
+Outside of research, I am a [Pathfinder for Boston Partners in Education](https://bostonpartners.org/educators/pathfinders/). If you are interested in having me visit your middle or high school class, please feel free to reach out or visit their website! You can read about one of my past visits [here](https://bostonpartners.org/asim-gazi-gardner-pilot-academy/). I am also the founder and owner of [Internet of Tutors LLC](https://www.internetoftutors.com/).
 
 
 #### Research Summary
