@@ -448,25 +448,25 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{
-        id: 'social-colorful_email',
-        title: 'Colorful_email',
+        id: 'social-email',
+        title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:agazi@seas.harvard.edu", "_blank");
+          window.open("mailto:%61%67%61%7A%69@%73%65%61%73.%68%61%72%76%61%72%64.%65%64%75", "_blank");
         },
       },{
-        id: 'social-colorful_scholar',
-        title: 'Colorful_scholar',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://scholar.google.com/citations?user=rPxdrHkAAAAJ&hl=en", "_blank");
-        },
-      },{
-        id: 'social-colorful_linkedin',
-        title: 'Colorful_linkedin',
+        id: 'social-linkedin',
+        title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
           window.open("https://www.linkedin.com/in/asim-gazi", "_blank");
+        },
+      },{
+        id: 'social-scholar',
+        title: 'Google Scholar',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://scholar.google.com/citations?user=rPxdrHkAAAAJ", "_blank");
         },
       },{
         id: 'social-x',
