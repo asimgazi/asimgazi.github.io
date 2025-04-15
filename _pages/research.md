@@ -3,7 +3,7 @@ layout: default
 permalink: /research/
 title: Research
 nav: true
-nav_order: 7
+nav_order: 2
 ---
 
 I envision a future where mobile health (mHealth) systems provide us with personalized support during daily life to prevent and treat chronic diseases. MHealth systems use wireless technologies to enable health care during everyday life, which is especially critical for chronic disease care. Chronic diseases often entail sudden bouts of acute symptoms (stress, hypertension, etc.) that require timelier support than can be provided by a clinician. In a therapist's words, "I only get to spend 45-60 minutes with [patients weekly]…The remainder of the time (i.e., 99%) is spent on their own."[^1]
