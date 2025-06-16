@@ -13,5 +13,5 @@ nav_order: 8
 
 <a href="/assets/pdf/CV_Gazi_2025-06-16.pdf" target="_blank">Download CV</a>
 <script>
-  window.location.href = "/assets/pdf/CV_Gazi_2025-05-09.pdf";
+  window.location.href = "/assets/pdf/CV_Gazi_2025-06-16.pdf";
 </script>
