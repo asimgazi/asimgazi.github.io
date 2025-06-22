@@ -43,6 +43,7 @@ body.sticky-bottom-footer {
   position: relative;
   padding-bottom: 56.25%; // 16:9 aspect ratio
   padding-top: 30px; // Optional: space above video
+  margin: 2em 0; // 2em above and below; 0 to the left and right
   height: 0;
   overflow: hidden;
 }

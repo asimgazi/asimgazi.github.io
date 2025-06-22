@@ -33,7 +33,6 @@ Outside of research, I am a [Pathfinder for Boston Partners in Education](https:
 <div class="video-responsive">
 <iframe width="800" height="450" src="https://www.youtube.com/embed/-Z59iiMlbJA?si=WAJk2I8zuMNASoUG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
-<br>
 
 #### Research Summary
 To help prevent and treat chronic diseases, I work on the next generation of intelligent [mobile health (mHealth)](https://en.wikipedia.org/wiki/MHealth) interventions that provide personalized healthcare support during everyday life, leveraging wearable sensors and other ubiquitous sensor technologies for real-time feedback. My research addresses the need to tailor healthcare support to the dynamics of daily life -- support that is currently left unaddressed by traditional healthcare systems that rely on infrequent, synchronous clinical support (e.g., [weekly psychotherapy that accounts for less than 1% of one's life](https://doi.org/10.1080/00332747.2022.2132774)). 
