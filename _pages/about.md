@@ -30,7 +30,9 @@ I am currently funded by a NIH K99/R00 Pathway to Independence Award from the Na
 
 Outside of research, I am a [Pathfinder for Boston Partners in Education](https://bostonpartners.org/educators/pathfinders/). If you are interested in having me visit your middle or high school class, please feel free to reach out! You can read about one of my past visits [here](https://bostonpartners.org/asim-gazi-gardner-pilot-academy/). I am also the founder and owner of [Internet of Tutors LLC](https://www.internetoftutors.com/).
 
+<div class="video-responsive">
 <iframe width="800" height="450" src="https://www.youtube.com/embed/-Z59iiMlbJA?si=WAJk2I8zuMNASoUG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 <br>
 
