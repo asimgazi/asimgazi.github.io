@@ -33,7 +33,6 @@ Outside of research, I am a [Pathfinder for Boston Partners in Education](https:
 <div class="video-responsive">
 <iframe width="800" height="450" src="https://www.youtube.com/embed/-Z59iiMlbJA?si=WAJk2I8zuMNASoUG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
-
 <br>
 
 #### Research Summary
