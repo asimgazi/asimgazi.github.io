@@ -11,7 +11,7 @@ nav_order: 8
   # sidebar: left
 ---
 
-<a href="/assets/pdf/CV_Gazi_2025-09-24.pdf" target="_blank">Download CV</a>
+<a href="/assets/pdf/CV_Gazi_2025-09-25.pdf" target="_blank">Download CV</a>
 <script>
-  window.location.href = "/assets/pdf/CV_Gazi_2025-09-24.pdf";
+  window.location.href = "/assets/pdf/CV_Gazi_2025-09-25.pdf";
 </script>
