@@ -1,4 +1,18 @@
 ---
+layout: none
+permalink: /research/
+title: Research One Pager
+nav: true
+nav_order: 2
+---
+
+<a href="/assets/pdf/ResearchStatement_2025_OnePager.pdf" target="_blank">Download Research One Pager</a>
+<script>
+  window.location.href = "/assets/pdf/ResearchStatement_2025_OnePager.pdf";
+</script>
+
+<!-- 
+---
 # layout: default
 layout: none
 permalink: /research/
@@ -37,3 +51,4 @@ To address these challenges, my research focuses on:
 #### References
 [^1]: M G-Holloway, *Psychiatry*, 2022.  
 [^2]: S Battalio et al., *Contemp Clin Trials*, 2021.
+-->
