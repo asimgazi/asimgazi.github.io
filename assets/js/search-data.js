@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-curriculum-vitae",
+  },{id: "nav-research-one-pager",
+          title: "Research One Pager",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/research/";
+          },
+        },{id: "nav-curriculum-vitae",
           title: "Curriculum Vitae",
           description: "",
           section: "Navigation",
