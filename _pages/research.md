@@ -7,9 +7,9 @@ nav: true
 nav_order: 2
 ---
 
-<a href="/assets/pdf/ResearchStatement_2025_OnePager.pdf" target="_blank">Download Research One Pager</a>
+<a href="/assets/pdf/ResearchStatement_2026_Template.pdf" target="_blank">Download Research Statement</a>
 <script>
-  window.location.href = "/assets/pdf/ResearchStatement_2025_OnePager.pdf";
+  window.location.href = "/assets/pdf/ResearchStatement_2026_Template.pdf";
 </script>
 
 
